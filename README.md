@@ -1,2 +1,2 @@
 # -My-Python-Projects
- InvestigatingCustomer Buying Patterns, Customer Demographics, Data mining Activities, (EDA), 
+ Investigating Customer Buying Patterns, Customer Demographics, Data mining Activities, (EDA) Exploratory Data Analysis.
